@@ -1,0 +1,14 @@
+torch==1.7.1
+torchvision==0.8.2
+numpy==1.19.5
+ftfy~=5.9
+regex~=2021.4.4
+tqdm~=4.60.0
+gdown~=3.12.2
+ensemble-boxes~=1.0.6
+opencv-python~=4.5.1.48
+fvcore>=0.1.1
+pycocotools>=2.0.2
+cloudpickle
+onnx
+mock

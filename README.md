@@ -37,6 +37,10 @@ The main class for making predictions is `CLIPDetector`. It takes config, classe
 
 
 ```python
-detector = CLIPDetector(cfg, source_class, additional_class)
+detector = CLIPDetector(cfg, source_classes, additional_classes)
 coords, labels = detector.detect(pil_image)
 ```
+
+## Example
+
+This prediction was made on CLIPDetector, which was retrained on our dataset. Additional classes here are shrimps and corn.

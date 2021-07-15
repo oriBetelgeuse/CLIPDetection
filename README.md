@@ -45,4 +45,4 @@ coords, labels = detector.detect(pil_image)
 
 This prediction was made on CLIPDetector, which was retrained on our dataset. Additional classes here are shrimps and corn.
 
-![Example](Example.jpeg)
+![Example](exapmle.jpeg)

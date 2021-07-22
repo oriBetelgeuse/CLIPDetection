@@ -46,6 +46,10 @@ detector = CLIPDetector(cfg, source_classes, additional_classes)
 coords, labels = detector.detect(pil_image)
 ```
 
+## Model Weights
+
+https://drive.google.com/file/d/1CiATp8kPesswRRZwVv7fUanvcN0YMT2L/view?usp=sharing
+
 ## Example
 
 This prediction was made on CLIPDetector, which was retrained on our dataset. Additional classes here are shrimps and corn.
